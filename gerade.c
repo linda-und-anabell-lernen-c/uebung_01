@@ -3,7 +3,7 @@
 int main(void)
 {
   int n;
-  printf("Bitte geben Sie eine Zahl ein: ");
+  printf("Bitte geben Sie eine Zahl ein:");
   scanf("%i", &n);
   if (n % 2 == 0)
   {
